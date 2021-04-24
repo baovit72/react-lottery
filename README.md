@@ -1,2 +1,2 @@
-#Lottery App Frontend
-##React + Redux
+# Lottery App Frontend
+## React + Redux
